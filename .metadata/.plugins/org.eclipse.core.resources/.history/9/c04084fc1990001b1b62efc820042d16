@@ -1,0 +1,6 @@
+package ex01;
+import java.util.*;
+
+class ex01 {
+	public static Scanner sc = new Scanner;
+}

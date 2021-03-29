@@ -1,0 +1,12 @@
+package ex01;
+import java.util.*;
+
+class ex01 {
+	public static Scanner sc = new Scanner(System.in);
+	
+	int n1, n2, soma;
+	
+	n1 = sc.nextInt();
+	n2 = sc.nextInt();
+	System.out.Println(""+n1+n2);
+}
